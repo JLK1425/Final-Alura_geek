@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "nombre": "Iron Man",
+      "precio": "1000.00",
+      "imagen": "assets/img/IronMan.png",
+      "id": 1
+    },
+    {
+      "nombre": "Goku",
+      "precio": "1500.00",
+      "imagen": "assets/img//Goku.png",
+      "id": 2
+    },
+    {
+      "nombre": "Capitan America",
+      "precio": "900.00",
+      "imagen": "assets/img/CapitanAmerica.png",
+      "id": 3
+    },
+    {
+      "nombre": "Vegeta",
+      "precio": "1000.00",
+      "imagen": "assets/img//Vegeta.png",
+      "id": 4
+    },
+    {
+      "id": "b448",
+      "nombre": "Spiderman",
+      "precio": "2000.00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLuPg8gnEBjCLk-NCFwstx9c0y-k0nLbBEnY8H_C17_8Oq0oqN8BQu23aWMuv0GvB1hA&usqp=CAU"
+    }
+  ]
+}
